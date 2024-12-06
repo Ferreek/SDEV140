@@ -1,0 +1,1 @@
+This program will take the cost of raw materials, online listing and seller fees, and all shipping costs as input and calculate the total cost to produce the item. The user can then hit a button to calculate a price to offer this item at. 
